@@ -27,7 +27,10 @@ Run the system:
 <pre><code>python test.py </code></pre>
 
 # Usage
-- Add images of individuals to the faces folder
-Run the system and the camera will start capturing images
-The system will recognize faces and log attendance data in real-time
-Attendance data can be exported to googlesheets
+
+<ol>
+<li>Add images of individuals to the faces folder</li>
+<li>Run the system and the camera will start capturing images</li>
+<li>The system will recognize faces and log attendance data in real-time</li>
+<li>Attendance data can be exported to googlesheets </li>
+</ol>
