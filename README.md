@@ -21,13 +21,13 @@
 
 Clone or download the repository
 <pre><code>git clone https://github.com/VenkatNarla1/FACEIT.git </code></pre>
-Install the required dependencies using pip: 
-<pre><code>pip install -r requirements.txt </code></pre>
+penerate to librabry:
+<pre><code>cd FACEIT\main </code></pre>
 Run the system: 
-<pre><code>python main.py </code></pre>
+<pre><code>python test.py </code></pre>
 
 # Usage
-Add images of individuals to the faces folder
+- Add images of individuals to the faces folder
 Run the system and the camera will start capturing images
 The system will recognize faces and log attendance data in real-time
 Attendance data can be exported to googlesheets
