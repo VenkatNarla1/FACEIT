@@ -11,13 +11,13 @@
 
 # To run this software, you will need:
 
-> Python 3.6 or higher
-> OpenCV
-> dlib
-> face_recognition
-> numpy
-> pandas
-> Installation
++ Python 3.6 or higher
++ OpenCV
++ dlib
++ face_recognition
++ numpy
++ pandas
++ Installation
 
 Clone or download the repository
 <pre><code>git clone https://github.com/VenkatNarla1/FACEIT.git </code></pre>
