@@ -26,6 +26,10 @@ penerate to librabry:
 Run the system: 
 <pre><code>python test.py </code></pre>
 
+
+
+[label](../../../../Downloads/Facial_attendance.mp4)
+
 # Usage
 
 <ol>
@@ -34,3 +38,4 @@ Run the system:
 <li>The system will recognize faces and log attendance data in real-time</li>
 <li>Attendance data can be exported to googlesheets </li>
 </ol>
+
